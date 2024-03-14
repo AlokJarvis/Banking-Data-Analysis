@@ -1,0 +1,5 @@
+Reconciliation Result: Does not match
+Detected Anomalies:
+   Transaction Date Account Number Transaction Type  Amount Description
+24       2023-08-26        ACCl006          Deposit  4976.0        Rent
+80       2023-03-01        ACCl00l     Card Payment  4903.0   Utilities
